@@ -27,6 +27,6 @@ Aids:
    *Main aids: webdriver, selenium, ChromeDriverManager,BeautifulSoup, pandas,gender_guesser*
 
 
-   **Png_Gender _Prediction_OpenCV**
-   Predicts the unknown values of gender, by maintaining their user's URL image. 
+   **Png_Gender _Prediction_OpenCV:**
+   Predicts the unknown values of gender, by maintaining their user's URL image.
    *Main aids: openCV, requests, matplotlib.pyplot, urllib.request.*
