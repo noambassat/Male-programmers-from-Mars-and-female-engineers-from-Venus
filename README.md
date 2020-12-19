@@ -24,9 +24,11 @@ Aids:
    **Data__Web_Crawling:**
    Carefully collects information from a particular site
    Identifies the user gender by username or first name, from their profile page.
-   *Main aids: webdriver, selenium, ChromeDriverManager,BeautifulSoup, pandas,gender_guesser*
+  
+    *Main aids: webdriver, selenium, ChromeDriverManager,BeautifulSoup, pandas,gender_guesser*
 
 
    **Png_Gender _Prediction_OpenCV:**
    Predicts the unknown values of gender, by maintaining their user's URL image.
-   *Main aids: openCV, requests, matplotlib.pyplot, urllib.request.*
+ 
+    *Main aids: openCV, requests, matplotlib.pyplot, urllib.request.*
