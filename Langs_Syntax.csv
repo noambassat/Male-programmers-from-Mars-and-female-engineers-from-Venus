@@ -1,0 +1,112 @@
+Command,C,Python,Swift,PHP,Ruby,Go,JavaScript,Csharp,Python3,Java,,
+Comments,// /*,"# """"""",// /*,// # /*,# =begin,// /*,// /*,// /*,"# """"""",// /*,,
+Conditions,if if( case ?,if,if,if if(,if unless,if if( case,if if( case,if if( case,if,if if( case ?,,
+else,else else{ else\n,else else: elif,else,else,else elseif,else else{ else\n,else else{ else\n,else else{ else\n,else else: elif,else else{ else\n,,
+For,for for(,for,for,for for( oreach( foreach,for,for,for for(,for for(,for,for for(,,
+While,while while(,while while(,"while
+",while while(,"while
+",,while while(,while while(,while while(,while while(,,
+do ... while,do do{ do\n,,repeat,do do{,"loop
+until",,do do{ do\n,do do{ do\n,,do do{ do\n,,
+Func dec,"""<return_type> <function_name>(""
+""<return_type> <function_name> (""",def,func,function,def,func,function function(, <Access Specifier> <Return Type> <Method Name>(Parameter List),def,"""<return_type> <function_name>(""
+""<return_type> <function_name> (""",,
+Func Calling,"""<func_name>(""
+""<func_name>(""","""<func_name> (""
+""<func_name>(""","""<func_name> (""
+""<func_name>(""","""<func_name> (""
+""<func_name>(""",""".<func_name> ""
+"":<func_name> ""","""<func_name> (""
+""<func_name>(""","""<func_name> (""
+""<func_name>(""","""<func_name> (""
+""<func_name>(""","""<func_name> (""
+""<func_name>(""","""<func_name> (""
+""<func_name>(""",,
+Varibales Dec,"double
+int
+char
+String
+float
+boolean
+long
+short
+byte","""<var_name>=""
+""<var_name> =""","var
+let",$,"$
+@
+@@
+_
+""<name(only from a-z)=""
+""<name(only from a-z) =""",var,let,"int
+char
+float
+double
+short
+","""<var_name>=""
+""<var_name> =""","double
+int
+char
+String
+float
+boolean
+long
+short
+byte",,
+Pointers,"double* int* char* String* float* boolean* long* short* byte* double*
+",,,,,"""var <name> *""",,,,"double* int* char* String* float* boolean* long* short* byte* double*
+",,
+Data Structures,"""<type> <arrayName> [ <arraySize> ]""
+""<type> <arrayName>[]""
+""malloc(""
+""calloc(""
+""struct ""","""<list_name>[""
+""list_name> [""
+""split()""
+""eval(""
+""eval (""
+""tuple (""
+""tuple(""
+""set(""
+""set (""
+""<dict>={""
+""<dict> = {""
+""<dict>= {""
+""<dict> ={""","""[<Type>]""
+""Array(""
+""Set<""
+""Set ""
+""Dictionary<""
+""Dictionary ""
+""Array ""
+","""array("" 
+""array ("" ","""[<text>]""
+""Array(""
+""Array.""
+""Array[""
+""Hash["" 
+""Hash.""","""var <arr>[""
+""var <arr> [""
+""map[""
+""map [""",,"""[]""","""<list_name>[""
+""list_name> [""
+""split()""
+""eval(""
+""eval (""
+""tuple (""
+""tuple(""
+""set(""
+""set (""
+""<dict>={""
+""<dict> = {""
+""<dict>= {""
+""<dict> ={""","""[] """,,
+Start and Ending funcs,"""{<text>}""",":
+<+TAB>
+
+<-TAB>","""{<text>}""","""{<text>}""","<+TAB>
+
+<-TAB>","""{<text>}""","""{<text>};""","""{<text>}""",":
+<+TAB>
+
+<-TAB>","""{<text>}""",,
+Recursive,,,,,  ,,,,,,,
