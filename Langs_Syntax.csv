@@ -2,7 +2,7 @@
  "cells": [
   {
    "cell_type": "code",
-   "execution_count": 93,
+   "execution_count": 107,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -13,7 +13,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 94,
+   "execution_count": 108,
    "metadata": {},
    "outputs": [
     {
@@ -317,7 +317,7 @@
        "9                                                NaN  "
       ]
      },
-     "execution_count": 94,
+     "execution_count": 108,
      "metadata": {},
      "output_type": "execute_result"
     }
