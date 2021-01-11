@@ -4,7 +4,7 @@ Conditions,if if( case ? else else{ else,if else else: elif,if else,if if( else,
 For,for for(,for,for,for for( oreach( foreach,for,for,for for(,for for(,for,for for(
 While,while while(,while while(,while,while while(,while,,while while(,while while(,while while(,while while(
 do ... while,do do{ do,,repeat,do do{,loop until,,do do{ do,do do{ do,,do do{ do
-Func dec,<return_type> <function_name>( <return_type> <function_name> (,def,func,function,def,func,function function(, <Access Specifier> <Return Type> <Method Name>(Parameter List),def,<return_type> <function_name>( <return_type> <function_name> (
+Func dec,return void,def,func,function,def,func,function function(,return void,def,return void
 Varibales Dec,double int char String string float boolean long short byte,<var_name>= <var_name>,var let,$,$ @ @@ _,var,let,int char float double short,<var_name>= <var_name> =,double int char String float boolean long short byte
 Pointers,"double* int* char* String* float* boolean* long* short* byte* double*
 ",,,,,var <name>*,,,,"double* int* char* String* float* boolean* long* short* byte* double*
