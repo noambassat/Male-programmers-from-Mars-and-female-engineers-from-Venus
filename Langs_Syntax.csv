@@ -1,0 +1,13 @@
+,Command,C,Python,Swift,PHP,Ruby,Go,JavaScript,Csharp,Python3,Java
+0,Comments,// /*,"# """"""",// /*,// # /*,# =begin,// /*,// /*,// /*,"# """"""",// /*
+1,Conditions,if if( case ? else else{ else,if else else: elif,if else,if if( else,if unless else elseif,if if( case else else{ else,if if( case else else{ else,if if( case else else{ else,if else else: elif,if if( case ? else else{ else
+2,For,for for(,for,for,for for( oreach( foreach,for,for,for for(,for for(,for,for for(
+3,While,while while(,while while(,while,while while(,while,,while while(,while while(,while while(,while while(
+4,do ... while,do do{ do,,repeat,do do{,loop until,,do do{ do,do do{ do,,do do{ do
+5,Func dec,return void,def,func,function,def,func,function function(,return void,def,return void
+6,Varibales Dec,double int char String string float boolean long short byte,<var_name>= <var_name>,var let,$ const,$ @ @@ _,var,let var,int char float double short var,<var_name>= <var_name> =,double int char String float boolean long short byte
+7,Pointers,"double* int* char* String* float* boolean* long* short* byte* double*
+",,,,,var <name>*,,,,"double* int* char* String* float* boolean* long* short* byte* double*
+"
+8,Comments length,0,0,0,0,0,0,0,0,0,0
+9,code length,0,0,0,0,0,0,0,0,0,0
