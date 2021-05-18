@@ -1,9 +1,4 @@
-# DataScienceProj
-
-In process  !!! :)
-
-Title:
-Male programmers from Mars and female engineers from Venus
+# Male programmers from Mars and female engineers from Venus
 
 
 The vision:
