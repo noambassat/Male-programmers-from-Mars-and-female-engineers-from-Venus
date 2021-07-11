@@ -6,24 +6,8 @@ Finding a fundamental difference / similarity in the style of writing code betwe
 Such a contribution can give effective code writing ideas to any of the genders or employers in the field.
 Will contribute greatly to research on gender differences / similarities.
 
+Step 1: Web crawling + Gender detectoion by name/ imogie: Web_Crawling_Gender_Detection
 
-Aids:
-* Python
-* BeautifulSoup
-* Selenium
-* Spacy
-* Sklearn
+Step 2: Syntaxes
 
-
-
-   **Data__Web_Crawling:**
-   Carefully collects information from a particular site
-   Identifies the user gender by username or first name, from their profile page.
-  
-    *Main aids: webdriver, selenium, ChromeDriverManager,BeautifulSoup, pandas,gender_guesser*
-
-
-   **Png_Gender _Prediction_OpenCV:**
-   Predicts the unknown values of gender, by maintaining their user's URL image.
- 
-    *Main aids: openCV, requests, matplotlib.pyplot, urllib.request.*
+Step 3: Modeling Data
