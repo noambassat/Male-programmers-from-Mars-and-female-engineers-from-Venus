@@ -6,8 +6,9 @@ Finding a fundamental difference / similarity in the style of writing code betwe
 Such a contribution can give effective code writing ideas to any of the genders or employers in the field.
 Will contribute greatly to research on gender differences / similarities.
 
-Step 1: Web crawling + Gender detectoion by name/ imogie: Web_Crawling_Gender_Detection
+1: Web crawling + Gender detectoion by name/ imogie: Web_Crawling_Gender_Detection
 
-Step 2: Syntaxes
+2: Syntaxes
 
-Step 3: Modeling Data
+3: Modeling Data
+                  ![image](https://user-images.githubusercontent.com/42816702/125202917-9ba57280-e27e-11eb-8620-c3979d7610b0.png)
