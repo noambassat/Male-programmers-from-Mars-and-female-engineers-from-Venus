@@ -11,4 +11,4 @@ Will contribute greatly to research on gender differences / similarities.
 2: Syntaxes
 
 3: Modeling Data
-                  ![image](https://user-images.githubusercontent.com/42816702/125202917-9ba57280-e27e-11eb-8620-c3979d7610b0.png)
+                  ![image](https://user-images.githubusercontent.com/42816702/125208128-61959a00-e299-11eb-96ae-d0fc4379d6c8.png)
